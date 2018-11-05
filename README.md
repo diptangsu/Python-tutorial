@@ -3,21 +3,21 @@ Contains a step by step tutorial to learn python
 
 
 Read in the following order:  
-[1. Getting Started](1. Getting Started.ipynb)  
-[2. Basics](2. Basics.ipynb)  
-[3. Operators](3. Operators.ipynb)  
-[4. Operators 2](4. Operators 2.ipynb)  
-[5. Bitwise Operators](5. Bitwise Operators.ipynb)  
-[6. Basic Types](6. Basic Types.ipynb)  
-[7. Conditional Statements](7. Conditional Statements.ipynb)  
-[8. Loops](8. Loops.ipynb)  
-[9. Numbers](9. Numbers.ipynb)  
-[10. Sequences](10. Sequences.ipynb)  
-[11. Sets](11. Sets.ipynb)  
-[12. Mappings](12. Mappings.ipynb)  
-[13. Identity Operator](13. Identity Operator.ipynb)  
-[14. Comprehensions](14. Comprehensions.ipynb)  
-[15. Functions](15. Functions.ipynb)  
+[1-getting-started](1-getting-started.ipynb)
+[2-basics](2-basics.ipynb)
+[3-operators](3-operators.ipynb)
+[4-operators-2](4-operators-2.ipynb)
+[5-bitwise-operators](5-bitwise-operators.ipynb)
+[6-basic-types](6-basic-types.ipynb)
+[7-conditional-statements](7-conditional-statements.ipynb)
+[8-loops](8-loops.ipynb)
+[9-numbers](9-numbers.ipynb)
+[10-sequences](10-sequences.ipynb)
+[11-sets](11-sets.ipynb)
+[12-mappings](12-mappings.ipynb)
+[13-identity-operator](13-identity-operator.ipynb)
+[14-comprehensions](14-comprehensions.ipynb)
+[15-functions](15-functions.ipynb)
 
 
 
