@@ -18,6 +18,7 @@ Read in the following order:
 [13-identity-operator](13-identity-operator.ipynb)  
 [14-comprehensions](14-comprehensions.ipynb)  
 [15-functions](15-functions.ipynb)  
+[16-lists-2](16-lists-2.ipynb)  
 
 
 
