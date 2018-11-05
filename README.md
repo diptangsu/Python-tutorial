@@ -21,14 +21,14 @@ Read in the following order:
 
 
 
-How to run the files.
+## How to run the files
+Download and install python from [here](python.org).  
 After installing python, open up a terminal/cmd and type in
 `pip install jupyter-notebook`
 
-Download or clone the repository and open up a terminal inside the repo and enter the command
+Download or clone this repository and open up a terminal inside the repo and enter the command
 `jupyter notebook`
 
-It will automatically launch your browser and you can read and run python code inside it
-
+It will automatically launch your browser and you can read and view the files from your own system.
 
 README file to be properly updated soon
