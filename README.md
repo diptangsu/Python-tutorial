@@ -2,7 +2,7 @@
 Contains a step by step tutorial to learn python
 
 
-Read in the following order:  
+Index:  
 [1-getting-started](1-getting-started.ipynb)  
 [2-basics](2-basics.ipynb)  
 [3-operators](3-operators.ipynb)  
