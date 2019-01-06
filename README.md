@@ -32,13 +32,9 @@ Download and install `python` (preferably `python3`) from [here](python.org).
 ### Install requirements
 After installing python, open up a terminal/cmd and type in
 ```cmd
-pip install jupyter
+pip3 install jupyter notebook
 ```
-or
-```cmd
-pip3 install jupyter
-```
-depending on which version of `python` you want jupyter installed into. `pip` for `python2` and `pip3` for `python3`.
+This will install the latest version of `jupyter notebook` for `python3`.
 
 ### View the notebooks
 Download or clone this repository and open up a terminal inside the downloaded repository and enter the command
